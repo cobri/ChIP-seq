@@ -19,3 +19,6 @@ My collection of resources for ChIP-seq analysis. I needed a place to compile an
 * [Whitehead Institute AnalysisofChIP-seqData2017](http://jura.wi.mit.edu/bio/education/hot_topics/ChIPseq_2017/AnalysisofChIP-seqData2017.pdf)
 
 
+### Workflows
+
+[NGI-ChIPseq: SciLife Lab](https://github.com/SciLifeLab/NGI-ChIPseq)
