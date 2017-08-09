@@ -24,3 +24,7 @@ My collection of resources for ChIP-seq analysis. I needed a place to compile an
 ### Workflows
 
 * [NGI-ChIPseq: SciLife Lab](https://github.com/SciLifeLab/NGI-ChIPseq)
+
+### Visualisation
+
+* [Biostars: Visualizations of ChIP-Seq data using Heatmaps](https://www.biostars.org/p/180314/#262059)
