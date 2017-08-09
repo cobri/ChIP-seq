@@ -27,4 +27,4 @@ My collection of resources for ChIP-seq analysis. I needed a place to compile an
 
 ### Visualisation
 
-* [Biostars: Visualizations of ChIP-Seq data using Heatmaps](https://www.biostars.org/p/180314/#262059)
+* [Biostars: Visualizations of ChIP-Seq data using Heatmaps](https://www.biostars.org/p/180314)
