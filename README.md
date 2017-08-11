@@ -4,6 +4,8 @@ My collection of resources for ChIP-seq analysis. I needed a place to compile an
 
 ### Key papers
 
+* [Role of ChIP-seq in the discovery of transcription factor binding sites, differential gene regulation mechanism, epigenetic marks and beyond](http://www.tandfonline.com/doi/full/10.4161/15384101.2014.949201) This is a good general introduction
+
 * [Practical Guidelines for the Comprehensive Analysis of ChIP-seq Data](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003326)
 
 * [ChIP-seq guidelines and practices of the ENCODE and modENCODE consortia](http://genome.cshlp.org/content/22/9/1813.long)
