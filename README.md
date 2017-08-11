@@ -9,13 +9,13 @@ My collection of resources for ChIP-seq analysis. I needed a place to compile an
 
 * [ChIP–seq: advantages and challenges of a maturing technology](https://www.nature.com/nrg/journal/v10/n10/full/nrg2641.html)
 
-* [Role of ChIP-seq in the discovery of transcription factor binding sites, differential gene regulation mechanism, epigenetic marks and beyond](http://www.tandfonline.com/doi/full/10.4161/15384101.2014.949201) This is a good general introduction
-
-* [Practical Guidelines for the Comprehensive Analysis of ChIP-seq Data](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003326)
+* [Role of ChIP-seq in the discovery of transcription factor binding sites, differential gene regulation mechanism, epigenetic marks and beyond](http://www.tandfonline.com/doi/full/10.4161/15384101.2014.949201) (This is a good general introduction)
 
 * [ChIP-seq guidelines and practices of the ENCODE and modENCODE consortia](http://genome.cshlp.org/content/22/9/1813.long)
 
 #### About ChIP-seq analysis specifically:
+
+* [Practical Guidelines for the Comprehensive Analysis of ChIP-seq Data](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003326)
 
 * [Recent advances in ChIP-seq analysis: from quality management to whole-genome annotation](https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbw023) 
 
